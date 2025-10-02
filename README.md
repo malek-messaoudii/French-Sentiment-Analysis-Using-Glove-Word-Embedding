@@ -14,13 +14,15 @@ The notebook "Word Embedding French Sentiment Analysis" provides a step-by-step 
 
 - Train a classification model to predict the sentiment of tweets.
 
+- Use Gradio to make interface and see results
+
 ## Methodology
 
 ### Data Preprocessing:
 
 - Text cleaning (removing punctuation, stopwords, etc.).
 
-Tokenization of text into words.
+- Tokenization of text into words.
 
 - Vectorization with GloVe:
 
