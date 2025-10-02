@@ -71,5 +71,3 @@ cd FrenchSentimentAnalysisUsingWordEmbedding
 interface.launch()
 ````
 glove_vectors.pkl : Precomputed GloVe embeddings.
-
-README.md : Project documentation.
