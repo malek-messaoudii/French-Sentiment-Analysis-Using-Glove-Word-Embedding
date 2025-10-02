@@ -62,8 +62,8 @@ Required libraries:
 
 1. Clone the repository:
 ```
-git clone https://github.com/malek-messaoudii/FrenchSentimentAnalysisUsingWordEmbedding.git
-cd FrenchSentimentAnalysisUsingWordEmbedding
+git https://github.com/malek-messaoudii/French-Sentiment-Analysis-Using-Glove-Word-Embedding.git
+cd French-Sentiment-Analysis-Using-Glove-Word-Embedding
 ```
 
 2. Run the notebook or script to generate embeddings and train the model.
