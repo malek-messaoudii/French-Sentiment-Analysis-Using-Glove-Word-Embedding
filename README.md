@@ -2,6 +2,10 @@
 
 This project explores sentiment analysis on French tweets using machine learning techniques and GloVe word embeddings. The goal is to predict whether a tweet is positive or negative based on its textual content.
 
+Lien Notebook Kaggle : https://www.kaggle.com/code/malekmessaoudi/word-embedding-french-sentiment-analysis
+
+Lien Dataset Kaggle : https://www.kaggle.com/datasets/hbaflast/french-twitter-sentiment-analysis
+
 ## Project Description
 
 The notebook "Word Embedding French Sentiment Analysis" provides a step-by-step approach to:
